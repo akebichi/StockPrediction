@@ -1,2 +1,2 @@
 # StockPrediction
-a ML approach to preedicting stocks based on financial metrics
+A ML approach to predicting stocks based on financial metrics
