@@ -11,7 +11,7 @@ def clean_dataset(df):
     return df[indices_to_keep].astype(np.float64)
 
 
-df = pd.read_csv("nvda_stock_data.csv")
+df_orig = pd.read_csv("nvda_stock_data.csv")
 
 df=clean_dataset(df_orig)
 
